@@ -1,0 +1,24 @@
+//Sorties pour version non-concurrente
+
+Number of points: 232050
+NW:(40.700000 , -74.000000) 
+SE:(40.800000 , -73.930000) 
+
+Partition          0 : [  33,  6514]
+Partition   10000000 : [  18, 38774]
+Partition   20000000 : [  25, 31599]
+Partition   30000000 : [   4,  2015]
+Partition    1000000 : [  12,   540]
+Partition   11000000 : [  20, 14022]
+Partition   21000000 : [   9, 56611]
+Partition   31000000 : [  14, 15370]
+Partition    2000000 : [   9,   272]
+Partition   12000000 : [   6,   288]
+Partition   22000000 : [  15, 19940]
+Partition   32000000 : [  20, 16535]
+Partition    3000000 : [   0,    17]
+Partition   13000000 : [   7,   226]
+Partition   23000000 : [  15,  1192]
+Partition   33000000 : [  19,  2187]
+
+Execution time: 37.3728125s of 206102 points
